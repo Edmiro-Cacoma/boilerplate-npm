@@ -7,6 +7,11 @@
   "scripts": {
     "start": "node server.js"
   },
+  "keywords": [
+    "freecodecamp",
+    "nodejs",
+    "npm"
+  ],
   "author": "Edmiro Cacoma",
   "description": "This is a project from freecodecamp, that teach me how to manage nodejs projects and npm using the package.json",
   "repository": {
